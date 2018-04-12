@@ -5,7 +5,7 @@
  * <Two sentence description of program>
  * 
  */
- 
+
 void setup() {
   String teamname1 = "Edmonton Oilers";
   String teamname2 = "calgary flames";
@@ -41,14 +41,20 @@ void setup() {
   print("\t");
   print("\t");
   print(teamname1Wins*2);
-   
-
-
-
+  println("");
+  print(teamname2);
+  print("\t");
+  print(teamname2wins);
+  print("\t");
+  print("\t");
+  print(teamname2loses);
+  print("\t");
+  print("\t");
+  print(teamname2wins*2);
+  
 
 
 }
 
 void draw() {
-
 }
