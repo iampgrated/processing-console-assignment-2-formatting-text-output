@@ -51,7 +51,17 @@ void setup() {
   print("\t");
   print("\t");
   print(teamname2wins*2);
-  
+  println("");
+  print(teamname3);
+  print("\t");
+  print(teamname3wins);
+  print("\t");
+  print("\t");
+  print(teamname3loses);
+   print("\t");
+   print("\t");
+   print(teamname3points);
+    
 
 
 }
