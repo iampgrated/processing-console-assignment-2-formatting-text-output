@@ -10,9 +10,31 @@ void setup() {
   String teamname1 = "Edmonton Oilers";
   String teamname2 = "calgary flames";
   String teamname3 = "San Jose Sharks";
+  int teamname1Wins =19;
+  int teamname1loses = 15;
+  int teamname2wins = 25;
+  int teamname2loses =20;
+  int teamname3wins =8;
+  int teamname3loses = 12;
+  int teamname1points =teamname1Wins*2;
+  int teamname2points =teamname2wins*2;
+  int teamname3points =teamname3wins*2;
   print("the first team is called ");
-  print(teamname1);
-  print(teamname2);
+  println(teamname1);
+  print("team");
+  print("\t");
+  print("\t");
+  print("wins");
+  print("\t");
+  print("\t");
+  print("losses");
+  print("\t");
+  print("\t");
+  print("points");
+
+
+
+
 
 
 }
